@@ -92,6 +92,8 @@ Atualmente, atuo como desenvolvedor, trabalhando com as tecnologias **C#**, **.N
 </p>
 
 ---
+<br/>
+<br/>
 
 ### 📲 Vamos nos conectar?
 
