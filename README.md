@@ -21,7 +21,15 @@ Atualmente, atuo como desenvolvedor, trabalhando com as tecnologias **C#**, **.N
             src="https://custom-icon-badges.demolab.com/github/followers/JuniorRosaV?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/alexandre-rosa-vieira-junior-263502246/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
+
 ### ⚙️ Linguagens e Tecnologias
 
 <img 
@@ -98,9 +106,3 @@ Atualmente, atuo como desenvolvedor, trabalhando com as tecnologias **C#**, **.N
 <br/>
 <br/>
 
-### 📲 Vamos nos conectar?
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-* 💻 [GitHub](https://github.com/SeuUsuarioGitHub)
-
----
