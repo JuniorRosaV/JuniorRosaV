@@ -21,7 +21,7 @@ Atualmente, atuo como desenvolvedor, trabalhando com as tecnologias **C#**, **.N
             src="https://custom-icon-badges.demolab.com/github/followers/JuniorRosaV?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/alexandre-rosa-vieira-junior-263502246/" target="_blank">
+     <a href="https://www.linkedin.com/in/alexandre-rosa-vieira-junior-263502246/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
