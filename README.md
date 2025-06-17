@@ -1,7 +1,3 @@
-Claro! Abaixo está um modelo semelhante ao da Larissa, adaptado para você, Junior Rosa. Você pode usar esse conteúdo no seu GitHub README, portfólio ou perfil público:
-
----
-
 # 👨🏻‍💻 Junior Rosa
 
 **`Desenvolvedor Web .NET`**
