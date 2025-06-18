@@ -84,7 +84,7 @@ Atualmente, atuo como desenvolvedor, trabalhando com as tecnologias **C#**, **.N
 ### 📈 Estatísticas do GitHub
 
 <p>
- <img 
+  <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
@@ -100,9 +100,4 @@ Atualmente, atuo como desenvolvedor, trabalhando com as tecnologias **C#**, **.N
   />
 
 </p>
-
-<br/>
-<br/>
-<br/>
-<br/>
 
