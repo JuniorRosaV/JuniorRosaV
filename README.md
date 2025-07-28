@@ -3,7 +3,7 @@
 Desenvolvedor Web .NET | Engenheiro de Formação, Programador por Paixão
 </h3>
 <p align="center">
-  <img src="dev-banner (2).png" alt="Banner desenvolvedor" width="80%" />
+  <img src="dev-banner (2).png" alt="Banner desenvolvedor" width="70%" />
 </p>
 
 Olá! Sou **Junior Rosa**, desenvolvedor com foco em tecnologias **.NET** e **C#**, atualmente cursando **Análise e Desenvolvimento de Sistemas na FATEC**. Minha formação original é em **Engenharia Civil**, o que fortalece meu raciocínio lógico e minha capacidade de análise — habilidades que hoje aplico diariamente na programação.
