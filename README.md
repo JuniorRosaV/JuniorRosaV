@@ -1,7 +1,7 @@
 # 👨🏻‍💻 ALEXANDRE ROSA VIEIRA JUNIOR
-<h1 align="center" font-weight: bold;>
+<h5 align="center" font-weight: bold;>
 Desenvolvedor Web .NET | Engenheiro de Formação, Programador por Paixão
-</h1>
+</h5>
 <p align="center">
   <img src="dev-banner (2).png" alt="Banner desenvolvedor" width="80%" />
 </p>
