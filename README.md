@@ -14,6 +14,7 @@ Após descobrir minha verdadeira vocação na tecnologia, mergulhei no universo 
 - **ASP.NET MVC e Web API**
 - **SQL Server 2022 com LINQ e Entity Framework**
 - **HTML5 e CSS3 com boas práticas de semântica e responsividade**
+- **JavaScript, TypeScript e AngularJS para desenvolvimento de front-end dinâmico**
 - **Conceitos sólidos de POO e Git para controle de versão**
 
 Sou um entusiasta da melhoria contínua e da escrita de código limpo e performático. Acredito que uma boa lógica de programação é a base para soluções eficientes — por isso, estou sempre praticando e evoluindo.
@@ -27,6 +28,9 @@ Sou um entusiasta da melhoria contínua e da escrita de código limpo e perform�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" title=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
 </p>
